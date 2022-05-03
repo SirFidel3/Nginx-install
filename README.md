@@ -16,3 +16,6 @@ Una vez hemos realizado la copia abirermos el fichero nuevo con notepad y cambia
 
 Despues nos situaremos dentro del fichero cambiando el nombre del server por el que nostros hemos creado.
 Finalmente lo linkeamos a nuestro archivo html y lo tendriamos en nuestro pagina localhost
+![image](https://user-images.githubusercontent.com/91744605/166523644-691c5dd9-ef5c-4def-b822-8cb152970db2.png)
+
+
